@@ -1,3 +1,4 @@
+#calculator example
 on = True
 def add():
     a = float(input("Enter a number."))
